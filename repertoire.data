@@ -1,0 +1,34 @@
+{
+    "repertoire": [
+        {
+            "nom": "Durand",
+            "prenom": "Jean",
+            "tel": "545454545"
+        },
+        {
+            "nom": "Dupont",
+            "prenom": "Pierre",
+            "tel": "0987654321"
+        },
+        {
+            "nom": "Afrlkjerqokijhfoierhf",
+            "prenom": "Nick",
+            "tel": "546465"
+        },
+        {
+            "nom": "ldked",
+            "prenom": "",
+            "tel": ""
+        },
+        {
+            "nom": "ijdeijede",
+            "prenom": "",
+            "tel": ""
+        },
+        {
+            "nom": "irzjferzf",
+            "prenom": "",
+            "tel": ""
+        }
+    ]
+}
